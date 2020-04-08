@@ -1,0 +1,41 @@
+.headBox {
+  height: 40px;
+  background: #01479D;
+  overflow: hidden;
+}
+
+.headBox_title {
+  color: #f2f2f2;
+  font-size: 18px;
+  margin-top: 6px;
+  margin-left: 10px;
+}
+.el-button--primary {
+
+  background-color: #01479D;
+  border-color: #01479D;
+}
+.publish_info_title{
+  font-size: 24px;
+}
+.publish_info_context{
+  font-size: 18px;
+}
+.publish_info {
+  padding-left: 20px;
+  min-height: 200px;
+}
+.publish_info_context{
+  margin-bottom: 30px;
+  min-height: 200px;
+  padding-top: 20px;
+}
+.talk{
+  padding-right: 20px;
+}
+.talkList{
+  height: 20px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  
+}

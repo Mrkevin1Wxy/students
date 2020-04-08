@@ -1,0 +1,43 @@
+
+
+body{
+  margin:0;
+}
+.homeHead{
+  height: 1.4rem;
+  background-color:#171B2A;
+  line-height:1.4rem;
+}
+
+
+.logoBox{
+  height: 100%;
+ 
+}
+.headLogo{
+      height: 1.2rem;
+      width: 6rem;
+      margin-top: 0.1rem;
+}
+
+.headTitle{
+  color:white;
+  font-size:0.26rem;
+ 
+}
+.titleBox{
+  text-align: center;
+}
+.titleBox{
+  cursor: pointer;
+}
+
+.el-col.el-col-24{
+
+}
+
+.outbox {
+  height: 100%;
+  width: 100%;
+  padding-left:1.2rem;
+}

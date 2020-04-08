@@ -1,0 +1,58 @@
+#home{
+  min-width: 1200px;
+  width: 100%;
+}
+.headBox{
+  height: 80px;
+  background-color: #01479D;
+}
+.headBox_title {
+  color: #f2f2f2;
+  font-size: 18px;
+  padding-left: 20px;
+  padding-top: 26px;
+
+}
+.login{
+  margin-top: 20px;
+ 
+}
+.loginBox{
+  width: 400px;
+  height:400px;
+  margin: 0 auto;
+  
+   
+}
+.loginboxhead{
+  color: #f2f2f2;
+  font-size: 18px;
+  text-align:center;
+  height:48px;
+  line-height: 48px;
+  background-color: #01479D;
+  border-radius: 4px 4px 0 0;
+
+}
+.inputBox {
+  padding:20px 20px;
+  border-radius: 0 0 4px 4px;
+   border:1px solid #01479D;
+}
+.el-button--primary{
+      background-color: #01479D;
+      border-color: #01479D;
+      width: 240px;
+}
+.el-button--primary.is-active,
+.el-button--primary:active {
+  background: #01479D;
+  border-color: #01479D;
+  color: #FFF;
+}
+.el-button--primary:focus,
+.el-button--primary:hover {
+  background: #01479D;
+  border-color: #01479D;
+  color: #FFF;
+}

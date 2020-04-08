@@ -1,0 +1,13 @@
+.clothInfo img{
+  width: 100%;
+}
+
+.clothBottom{
+  padding-top: 0.8rem;
+  padding-bottom:0.8rem;
+  background:#585858;
+ color:white;
+ line-height: 0.5rem;
+ text-align: center;
+ font-size:0.24rem;
+}
